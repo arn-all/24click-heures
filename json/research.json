@@ -1,10 +1,10 @@
 [
   {
-    "key": "research-cpv",
-    "name": "CP violation",
-    "description": "CP symmetry is broken!",
+    "key": "anim-cycliste",
+    "name": "Course cycliste",
+    "description": "C'est là que tout commence !",
     "cost_increase": 1.8,
-    "image": "assets/icons/png/CPV.png",
+    "image": "assets/icons/png/",
     "info": "html/CPV.html",
     "state": {
       "reputation": 1e0,
@@ -13,11 +13,11 @@
     }
   },
   {
-    "key": "research-jpsi",
-    "name": "J/ψ",
-    "description": "The J/ψ meson consists of a c and an anti-c quark.",
+    "key": "anim-sports",
+    "name": "Sports",
+    "description": "Molkky ? Bubble-foot ? Judo ?",
     "cost_increase": 1.7,
-    "image": "assets/icons/png/Jpsi.png",
+    "image": "assets/icons/png/",
     "info": "html/Jpsi.html",
     "state": {
       "reputation": 6e0,
@@ -26,11 +26,11 @@
     }
   },
   {
-    "key": "research-tau",
-    "name": "τ lepton",
-    "description": "The third generation charged lepton.",
+    "key": "anim-buvette",
+    "name": "Buvette",
+    "description": "L'anim phare.",
     "cost_increase": 1.6,
-    "image": "assets/icons/png/tau.png",
+    "image": "assets/icons/png/",
     "info": "html/tau.html",
     "state": {
       "reputation": 3.3e1,
@@ -39,11 +39,11 @@
     }
   },
   {
-    "key": "research-beauty",
-    "name": "Beauty quark",
-    "description": "The third generation down-type quark.",
+    "key": "anim-bandas",
+    "name": "La Band'As",
+    "description": "🎺🎺🎺",
     "cost_increase": 1.5,
-    "image": "assets/icons/png/b.png",
+    "image": "assets/icons/png/",
     "info": "html/b.html",
     "state": {
       "reputation": 1.85e2,
@@ -52,11 +52,11 @@
     }
   },
     {
-    "key": "research-gluons",
-    "name": "Gluons",
-    "description": "8 almost identical elementary particles that convey the strong force.",
+    "key": "anim-gonflables",
+    "name": "Gonflables",
+    "description": ".",
     "cost_increase": 1.4,
-    "image": "assets/icons/png/gluons.png",
+    "image": "assets/icons/png/",
     "info": "html/gluons.html",
     "state": {
       "reputation": 1e3,
@@ -65,11 +65,11 @@
     }
   },
   {
-    "key": "research-weak",
-    "name": "W and Z boson",
-    "description": "The carriers of the weak force.",
+    "key": "anim-concerts",
+    "name": "Concerts",
+    "description": ".",
     "cost_increase": 1.35,
-    "image": "assets/icons/png/weak.png",
+    "image": "assets/icons/png/",
     "info": "html/weak.html",
     "state": {
       "reputation": 5.4e3,
@@ -78,11 +78,11 @@
     }
   },
   {
-    "key": "research-top",
-    "name": "Top quark",
-    "description": "The heaviest of the quarks.",
+    "key": "anim-toilettes",
+    "name": "Toilettes sèches",
+    "description": ".",
     "cost_increase": 1.3,
-    "image": "assets/icons/png/t.png",
+    "image": "assets/icons/png/",
     "info": "html/top.html",
     "state": {
       "reputation": 3e4,
@@ -91,11 +91,11 @@
     }
   },
   {
-    "key": "research-boscillations",
-    "name": "B oscillation",
-    "description": "B mesons turn into their antiparticles and vice versa!",
+    "key": "anim-kls",
+    "name": "KLS",
+    "description": "",
     "cost_increase": 1.25,
-    "image": "assets/icons/png/BBbar.png",
+    "image": "assets/icons/png/",
     "info": "html/BBbar.html",
     "state": {
       "reputation": 1.6e5,
@@ -104,11 +104,11 @@
     }
   },
   {
-    "key": "research-higgs",
-    "name": "Higgs boson",
-    "description": "It only took us 48 years to find this one!",
+    "key": "anim-course-pied",
+    "name": "Course à pied",
+    "description": ".",
     "cost_increase": 1.2,
-    "image": "assets/icons/png/H.png",
+    "image": "assets/icons/png/",
     "info": "html/H.html",
     "state": {
       "reputation": 9e5,
@@ -117,11 +117,11 @@
     }
   },
   {
-    "key": "research-dstars",
-    "name": "D*s⁻",
+    "key": "anim-ferme",
+    "name": "Ferme pédagogique",
     "description": "The first ever observed heavy flavored spin-3 particle.",
     "cost_increase": 1.15,
-    "image": "assets/icons/png/Dstar_s.png",
+    "image": "assets/icons/png/",
     "info": "html/Dstar_s.html",
     "state": {
       "reputation": 4.75e6,
@@ -130,11 +130,154 @@
     }
   },
   {
-    "key": "research-xib",
-    "name": "Ξb'- and Ξb*-",
-    "description": "Recently discovered strange beauty baryons. Both differ only in their spin configurations.",
+    "key": "anim-bouffe",
+    "name": "Bar bouffe",
+    "description": "",
     "cost_increase": 1.15,
-    "image": "assets/icons/png/Xi_b.png",
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-bar-découverte",
+    "name": "Bar découverte",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-dromadaires",
+    "name": "Dromadaires",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-feu",
+    "name": "Spéctacle de feu",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-feu-artifice",
+    "name": "Feu d'artifice",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-scene",
+    "name": "Grande scène",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-aftermovie",
+    "name": "Aftermovie",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-biere-edition",
+    "name": "Bière édition ",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-toilettes",
+    "name": "Vraies toilettes",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-pyro",
+    "name": "Pyrotechnie",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-mongolfières",
+    "name": "24h de mongolfières",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
+    "info": "html/Xi_b.html",
+    "state": {
+      "reputation": 2.5e7,
+      "cost": 9e10,
+      "info_levels": [ 1 ]
+    }
+  },
+  {
+    "key": "anim-barbecue",
+    "name": "Barbecue 25ème",
+    "description": "",
+    "cost_increase": 1.15,
+    "image": "assets/icons/png/",
     "info": "html/Xi_b.html",
     "state": {
       "reputation": 2.5e7,

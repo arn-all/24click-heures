@@ -22,10 +22,10 @@ var GameObjects = (function() {
     GameObject.apply(this, [{
                              key : 'lab',
                              state : {
-                               name : 'Give your lab an awesome name!',
+                               name : '24 heures de l\'INSA - édition #... ',
                                detector : 1,
                                factor : 5,
-                               data : 0,
+                               data : 1e15,
                                money : 0,
                                reputation : 0,
                                clicks : 0,
